@@ -1,0 +1,1 @@
+"use strict";$(".class-header-item1").mouseenter(function(){$(".class-header-logo").stop().animate({left:"-48px"},200)}),$(".class-header-item1").mouseleave(function(){$(".class-header-logo").stop().animate({left:"0"},200)});

@@ -1,0 +1,1 @@
+"use strict";$.getJSON("../js/country.json",function(o){console.log("city",o)});
